@@ -1,0 +1,8 @@
+{
+  "name": "Language Learning Companion",
+  "description": "An interactive language learning platform featuring dynamic quizzes, custom flashcards, a grammar analyzer, and AI conversation partners with real-time corrections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
